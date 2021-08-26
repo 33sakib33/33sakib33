@@ -1,4 +1,4 @@
-<img width="400px" src="https://tenor.com/view/gintama-gif-4910679" />
+<img width="600px" src="https://tenor.com/view/gintama-gif-4910679"/>
 
 [![rudrOwO's github stats](https://github-readme-stats.vercel.app/api?username=33sakib33&show_icons=true&theme=gotham&hide=contribs)](https://github.com/33sakib33)
 
