@@ -1,2 +1,2 @@
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/sakibwastooshort)
+![Leetcode Stats](https://leetcard.jacoblin.cool/sakibwastooshort?theme=forest)
