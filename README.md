@@ -9,11 +9,12 @@ I'm currently pursuing my **Master's in Software Engineering** in University of 
 - 📚 Researching in **Continual Learning** to develop better learning solutions.
 - 🛠 Enhancing my expertise in **AI** and **machine learning**.
 - 🤖 Exploring how **intelligence works** and applying intelligent algorithms across various fields.
+- 🦀 Learning the **Rust** Programing Language.
 
-### 💻 Tech Stack
-- **Languages**: TypeScript, Python, C++, Java
-- **Tools**: VS Code, Git, Docker, PyTorch
-- **Interests**:  AI, Competitive programming, problem-solving, Software Engineering, Writing
+### 💻 Skills & Interests
+- **Languages & Frameworks**: TypeScript, Python, C++, Java, NestJS, PyTorch
+- **Tools**: VS Code, Git, Docker
+- **Interests**:  AI, Competitive programming, Problem-solving, Software engineering, Writing
 
 ### 📫 How to Reach Me
 - Email: [33sakib33@gmail.com](mailto:33sakib33@gmail.com)
