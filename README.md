@@ -19,8 +19,6 @@ I'm currently pursuing my **Master's in Software Engineering** in University of 
 - Email: [33sakib33@gmail.com](mailto:33sakib33@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/33sakib33/)
 
-
-Feel free to customize the links and sections further if needed!
 ![Leetcode Stats](https://leetcard.jacoblin.cool/sakibwastooshort?theme=forest)
 
 
