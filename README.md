@@ -4,7 +4,7 @@
 ## 👋 Hello, I'm Nazmus Sakib Ahmed
 ![](https://komarev.com/ghpvc/?username=33sakib33)
 
-I'm currently pursuing my **Master's in Software Engineering** in University of Dhaka, with a focus on **Continual Learning** for my thesis. I also work part-time as a **Machine Learning Engineer** at **Mpower Social**, where I get to apply my skills in building intelligent solutions. I like to write about random things whenever I can. 
+I'm currently pursuing my **Master's in Software Engineering** in University of Dhaka, with a focus on **Interpretable AI** **Continual Learning** for my thesis. I co-founded an AI/ML based company called **Factoryze**, where I get to apply my skills in building intelligent solutions. I like to write about random things whenever I can. 
 
 ### 🌱 What I'm Working On
 - 📚 Researching in **Continual Learning** to develop better learning solutions.
